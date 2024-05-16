@@ -1,0 +1,41 @@
+html>
+<head><title>History of champions league</title>
+<link rel="icon" href="champions.png" type="image.png">
+<style>
+h1{text-shadow: 2px 2px 5px blue;font-size:100px;color:#3BB9FF;
+background-color:#0000A0;margin-left:auto;margin-right:auto;}
+body{background-color:#0000A0;}
+img{width:250px;height:250px; border:5px solid black;
+box-shadow:3px 2px 12px blue; border-radius :20px ;margin:10px padding:5px;margin-left:10%;}
+h3{font-size:15px;color:white;}
+p{font-size:25px;color:white;border-style:dotted;text-align: center;border-radius:0%;
+margin-left:10%;margin-right:10%;}
+a{font-size:25px;color:white;}
+</style>
+</head>
+<body>
+<header>
+<center>
+<h1>History of champions league</h1>
+</header>
+<nav><a href="projet info.html">Home</a></nav>
+<p>The UEFA Champions League, originally known as the European Champion Clubs' Cup, was established in 1955, inspired by the vision of French sports journalist Gabriel Hanot. He proposed the idea of a continental competition for Europe's top football clubs, leading to the inaugural tournament in the 1955-1956 season. This first edition featured 16 teams and saw Real Madrid claim the title, beginning their early dominance as they secured the first five championships consecutively.
+
+The initial format of the competition was straightforward, consisting solely of knockout rounds leading up to the final. This format persisted until the 1992-1993 season when significant changes were introduced. The tournament was rebranded as the UEFA Champions League, marking the beginning of a new era. The new format included a group stage, which allowed for more matches and increased television revenues. This expansion also enabled multiple teams from the same country to compete, enhancing the level of competition and the diversity of participating clubs.
+
+Throughout its history, the Champions League has seen numerous iconic moments and legendary performances. Clubs like AC Milan, Liverpool, Bayern Munich, Barcelona, and Manchester United have left indelible marks on the competition. Real Madrid, in particular, has been a dominant force, with a record 14 titles, including an impressive streak of three consecutive wins from 2016 to 2018.
+
+The modern Champions League format consists of several stages: the qualifying rounds, a group stage, the knockout phase, and the final. The group stage involves 32 teams split into eight groups of four, with the top two from each group advancing to the knockout rounds. This format has increased the tournament's global appeal, making the final one of the most-watched sporting events annually.
+
+Individual accolades within the competition have also gained significant attention. Cristiano Ronaldo is the all-time top scorer, with his goal-scoring feats contributing to the tournament's allure. Lionel Messi, another prolific scorer, has also left a lasting legacy in the Champions League.
+
+In recent years, the competition has continued to evolve, adapting to the changing landscape of European football. Proposals for further expansion and format changes are regularly discussed to maintain its prestige and competitiveness. The UEFA Champions League remains the pinnacle of club football, celebrated for its history, drama, and the high caliber of football it showcases each season.</p>
+</center>
+<img src="p1.png">
+<img src="p2.png">
+<img src="p3.png">
+<footer>
+<h3>&copy; Champions League official</h3>
+</footer>
+</body>
+</html>
