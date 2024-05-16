@@ -1,0 +1,82 @@
+<html>
+<head><title>Legends</title>
+<link rel="icon" href="champions.png" type="image.png">
+</head>
+<style>
+h1{text-shadow: 2px 2px 5px blue;font-size:100px;color:#3BB9FF;
+background-color:#C2DFFF;margin-left:auto;margin-right:auto;}
+body{background-color:#C2DFFF;}
+img{width:300px;height:370px; border:5px solid black;
+box-shadow:3px 2px 12px blue; border-radius :20px ;margin:10px padding:5px;margin-left:5%;}
+h3{font-size:15px;color:black;}
+p{font-size:25px;color:black;border-style:dotted;text-align: center;border-radius:0%;
+margin-left:10%;margin-right:10%;}
+a{color:white;height:7%;}
+</style>
+<body>
+<header>
+<center>
+<h1>The legends</h1>
+<nav><a href="projet info.html">Home</a></nav>
+</header>
+<p> 
+1. Pelé (Brazil)
+*Full Name:* Edson Arantes do Nascimento
+*Achievements:*
+- 3 FIFA World Cups (1958, 1962, 1970)
+- Over 1,000 career goals
+- Known for his exceptional dribbling, speed, and finishing ability
+*Overview:* Pelé is widely regarded as one of the greatest footballers of all time. He burst onto the international scene at the age of 17, helping Brazil win the 1958 World Cup. His extraordinary goal-scoring record and numerous accolades have cemented his legacy as a football icon.
+</p><img src="pele.jpg"> <p>
+2. Diego Maradona (Argentina)
+*Full Name:* Diego Armando Maradona
+*Achievements:*
+- FIFA World Cup (1986)
+- Known for the "Hand of God" goal and the "Goal of the Century" in the 1986 World Cup
+*Overview:* Maradona is renowned for his incredible skill, vision, and ability to control games almost single-handedly. His performance in the 1986 World Cup, where he led Argentina to victory, is considered one of the greatest individual performances in the tournament's history.
+</p><img src="mara.jpg"> <p>
+3. Cristiano Ronaldo (Portugal)
+*Full Name:* Cristiano Ronaldo dos Santos Aveiro
+*Achievements:*
+- 5 Ballon d'Or awards
+- 5 UEFA Champions League titles (4 with Real Madrid, 1 with Manchester United)
+- UEFA European Championship (2016)
+*Overview:* Ronaldo is celebrated for his incredible athleticism, goal-scoring ability, and versatility. He has set numerous records throughout his career and has been a key player for Sporting CP, Manchester United, Real Madrid, Juventus, and Al-Nassr.
+</p><img src="cr7.jpg"> <p>
+4. Lionel Messi (Argentina)
+*Full Name:* Lionel Andrés Messi
+*Achievements:*
+- 7 Ballon d'Or awards (as of 2023)
+- 4 UEFA Champions League titles with Barcelona
+- FIFA World Cup (2022)
+*Overview:* Messi is known for his dribbling, playmaking, and goal-scoring prowess. He spent the majority of his career at FC Barcelona, where he became the club's all-time leading scorer. His consistency and longevity at the highest level have made him one of football's greatest ever.
+</p><img src="messi.jpg"> <p>
+5. Johan Cruyff (Netherlands)
+*Full Name:* Hendrik Johannes Cruijff
+*Achievements:*
+- 3 Ballon d'Or awards
+- Led Ajax to 3 consecutive European Cups (1971-1973)
+- Pioneered "Total Football" with Ajax and Barcelona
+*Overview:* Cruyff was a visionary player and manager who revolutionized football tactics. His philosophy of "Total Football" emphasized fluid movement and positional interchange, significantly influencing modern football.
+</p><img src="co.jpg"> <p>
+6. Zinedine Zidane (France)
+*Full Name:* Zinedine Yazid Zidane
+*Achievements:*
+- FIFA World Cup (1998)
+- UEFA Champions League (2002 with Real Madrid)
+- 3 FIFA World Player of the Year awards
+*Overview:* Zidane is celebrated for his elegance, vision, and technical skill. His performances for France in the 1998 World Cup and Euro 2000 are legendary. As a manager, he also led Real Madrid to three consecutive Champions League titles from 2016 to 2018.
+</p><img src="zidane.jpg"> <p>
+7. Franz Beckenbauer (Germany)
+*Full Name:* Franz Anton Beckenbauer
+*Achievements:*
+- 2 Ballon d'Or awards
+- FIFA World Cup (1974 as a player, 1990 as a manager)
+- 3 European Cups with Bayern Munich
+*Overview:* Beckenbauer, known as "Der Kaiser," is one of the greatest defenders in history. He is credited with inventing the modern sweeper (libero) role. His leadership and tactical acumen were crucial in both his playing and managerial careers</p>
+</p><img src="po.jpg"> 
+<footer>
+<h3>&copy; Champions League official</h3>
+</footer>
+</body>
+</html>
