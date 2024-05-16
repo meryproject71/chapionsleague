@@ -1,0 +1,61 @@
+<html>
+<head><title>Clubs</title>
+<link rel="icon" href="champions.png" type="image.png">
+</head>
+<style>
+h1{text-shadow: 2px 2px 5px blue;font-size:100px;color:#3BB9FF;
+background-color:#0000A0;margin-left:auto;margin-right:auto;}
+body{background-color:#0000A0;}
+img{width:300px;height:350px; border:5px solid black;
+box-shadow:3px 2px 12px blue; border-radius :20px ;margin:10px padding:5px;margin-left:5%;}
+h3{font-size:15px;color:white;}
+p{font-size:25px;color:white;border-style:dotted;text-align: center;border-radius:0%;
+margin-left:10%;margin-right:10%;}
+a{color:white;height:7%;}
+</style>
+<body>
+<header>
+<center>
+<h1>The clubs</h1>
+<nav><a href="projet info.html">Home</a></nav>
+<p>1. Real Madrid (Spain)
+*Titles:* 14
+*Key Players:* Alfredo Di Stéfano, Ferenc Puskás, Raúl, Cristiano Ronaldo, Sergio Ramos
+*Overview:* Real Madrid is the most successful club in the history of the Champions League. Their early dominance in the competition laid the foundation for their reputation as a powerhouse in European football. The club's "Galácticos" era in the early 2000s and their recent success under Zinedine Zidane, where they won three consecutive titles from 2016 to 2018, highlight their continued excellence.
+</p> <img src="r1.jpg"> <img src="r2.jpg"><img src="real.png"><p>
+2. FC Barcelona (Spain)
+*Titles:* 5
+*Key Players:* Johan Cruyff, Ronaldinho, Lionel Messi, Xavi Hernandez, Andrés Iniesta
+*Overview:* FC Barcelona is renowned for their attractive style of play, known as "tiki-taka," which focuses on possession and quick passing. The club enjoyed significant success in the 21st century, particularly under manager Pep Guardiola, winning the Champions League in 2006, 2009, 2011, and 2015. Lionel Messi, arguably one of the greatest players of all time, has been pivotal in their successes.
+</p> <img src="f1.jpg"><img src="f2.jpg"><p>
+3. AC Milan (Italy)
+*Titles:* 7
+*Key Players:* Paolo Maldini, Franco Baresi, Marco van Basten, Andriy Shevchenko, Kaka
+*Overview:* AC Milan is one of the most decorated clubs in European football. They dominated the competition in the late 1980s and early 1990s under manager Arrigo Sacchi and continued their success into the 2000s. Their defensive solidity and strategic play have earned them seven Champions League titles, the last of which came in 2007.
+</p> <img src="a1.jpg"><img src="a2.jpg"><p>
+4. Liverpool FC (England)
+*Titles:* 6
+*Key Players:* Kenny Dalglish, Steven Gerrard, Mohamed Salah, Sadio Mane, Virgil van Dijk
+*Overview:* Liverpool has a storied history in the Champions League, with memorable triumphs such as the dramatic 2005 final in Istanbul, where they came back from 3-0 down to win on penalties against AC Milan. Under Jürgen Klopp, Liverpool won their sixth title in 2019, solidifying their status as one of England's most successful European clubs.
+</p> <img src="l1.jpg"><img src="l2.jpg"><p>
+5. Bayern Munich (Germany)
+*Titles:* 6
+*Key Players:* Franz Beckenbauer, Gerd Muller, Karl-Heinz Rummenigge, Oliver Kahn, Robert Lewandowski
+*Overview:* Bayern Munich is Germany's most successful club and a consistent contender in the Champions League. They won their first three titles consecutively from 1974 to 1976 and have remained a dominant force, securing their sixth title in 2020. The club is known for its strong organizational structure and ability to develop world-class talent.
+</p> <img src="b1.jpg"><img src="b2.jpg"><p>
+6. Manchester United (England)
+*Titles:* 3
+*Key Players:* George Best, Eric Cantona, Ryan Giggs, Paul Scholes, Cristiano Ronaldo
+*Overview:* Manchester United is one of the most famous clubs globally, with a rich history in the Champions League. They won their first title in 1968 under Sir Matt Busby and added two more under Sir Alex Ferguson in 1999 and 2008. The club is renowned for its attacking football and has produced numerous legendary players.
+</p> <img src="u1.jpg"><img src="u2.jpg"><p>
+7. Juventus (Italy)
+*Titles:* 2
+*Key Players:* Alessandro Del Piero, Gianluigi Buffon, Pavel Nedved, Zinedine Zidane, Cristiano Ronaldo
+*Overview:* Juventus is Italy's most successful club domestically and has a strong presence in European competitions. They have won the Champions League twice, in 1985 and 1996. Despite several near-misses in recent years, Juventus remains a formidable team, consistently reaching the latter stages of the tournament.
+</p> <img src="j1.jpg"><img src="j2.jpg"></p>
+</header>
+<footer>
+<h3>&copy; Champions League official</h3>
+</footer>
+</body>
+</html>
